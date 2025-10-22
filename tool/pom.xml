@@ -23,7 +23,7 @@
 		<artifactId>attendance</artifactId>
 		<groupId>org.sakaiproject.attendance</groupId>
 		<version>25.1</version>
-  	</parent>
+	</parent>
 	
 	<name>attendance - Tool</name>
 	<artifactId>attendance-tool</artifactId>
