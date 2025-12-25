@@ -20,10 +20,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<parent>
-    <artifactId>attendance</artifactId>
-    <groupId>org.sakaiproject.attendance</groupId>
-    <version>25-SNAPSHOT</version>
-  </parent>
+		<artifactId>attendance</artifactId>
+		<groupId>org.sakaiproject.attendance</groupId>
+		<version>25.1</version>
+  	</parent>
 	
 	<name>attendance - Tool</name>
 	<artifactId>attendance-tool</artifactId>
